@@ -4,15 +4,15 @@
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/1_Hc1T6KXvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Растяни меха, гармошка,
-Эх, играй-наяривай,
-Пой частушки, бабка Ёжка,
-Пой, не разговаривай.
+Шла лесною стороной,
+Увязался чёрт за мной,
+Думала мужчина,
+Что за чертовщина.
 
-Я была навеселе
-И летала на метле,
-Хоть сама не верю я
-В эти суеверия.
+Повернула я домой,
+Снова чёрт идет за мной,
+Плюнула на плешь ему
+И послала к лешему.
 
 <br><br>
 
@@ -22,15 +22,13 @@
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Dnn6kAG2SzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Rastyani mekha, garmoshka,
-Ekh, igraj-nayarivaj,
-Poj chastushki, babka YOzhka,
-Poj, ne razgovarivaj.
+SHla lesnoyu storonoj,
+Uvyazalsya chyort za mnoj,
+Dumala muzhchina,
+CHto za chertovshchina.
 
-YA byla navesele
-I letala na metle,
-Hot' sama ne veryu ya
-V eti sueveriya.
-
-<br><br>
+Povernula ya domoj,
+Snova chyort idet za mnoj,
+Plyunula na plesh' emu
+I poslala k leshemu.<br><br>
 
