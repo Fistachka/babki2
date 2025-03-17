@@ -2,7 +2,7 @@
 
 ![4 зас](https://github.com/user-attachments/assets/67ed7a25-e908-4752-ab46-80beff64b219)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/1_Hc1T6KXvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/CJSWg42fUeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Шла лесною стороной,
 Увязался чёрт за мной,
@@ -20,7 +20,7 @@
 
 ![4 зас](https://github.com/user-attachments/assets/67ed7a25-e908-4752-ab46-80beff64b219)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/Dnn6kAG2SzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/jeQwxzV2nFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 SHla lesnoyu storonoj,
 Uvyazalsya chyort za mnoj,
